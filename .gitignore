@@ -34,3 +34,8 @@ PandaFramework/Unity.CollabProxy.Editor.csproj
 PandaFramework/Unity.Burst.Editor.csproj
 PandaFramework/Unity.Burst.csproj
 PandaFramework/Unity.Burst.CodeGen.csproj
+*.csproj
+PandaFramwork_Unity/.vsconfig
+/PandaFramwork_Unity/Library
+/PandaFramwork_Unity/Logs
+*.sln
